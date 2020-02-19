@@ -1,0 +1,17 @@
+CREATE TABLE cadastro 
+(
+	id serial,
+	nomeDono text,
+	telefone text,
+	RG text,
+	CPF text,
+	animal text,
+	qualAnimal text,
+	sexodoAnimal text,
+	nomeAnimal text,
+	idadeAnimal text
+);
+SELECT * FROM cadastro
+
+
+**dbclinica
